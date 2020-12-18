@@ -5,7 +5,7 @@ import * as parkData from "./data/skateboard-parks.json";
 
 // console.log("Token: " + process.env.REACT_APP_MAPBOX_TOKEN);
 
-const token = "pk.eyJ1IjoiYndhamhhIiwiYSI6ImNraW9oMHF6djBpZ3YydG1scmd1a25rMW8ifQ.eYn8XWXgNseMQWBO2MKR-w";
+const token = "geheim";
 
 
 export default function App() {
